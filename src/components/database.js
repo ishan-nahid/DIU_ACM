@@ -3,21 +3,18 @@ export const Leaderboard = [
         team_name: "DIU_Beli3v3rs",
         team_member: "Mahmud Sajjad Abeer, Ahsan Shuvo, Hasibul Hasan Nishat",
         position : 22,
-        // img: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
         year: 2019
     },
     {
         team_name: "DIU_Whatever",
         team_member: "DIU_Whatever, DIU_Whatever, Rahim Iqbal",
         position : 215,
-        // img: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
         year: 2018
     },
     {
         team_name: "DIU_Tr0jAnZ",
         team_member: "Tanima, Md Erfan, Nazmus Sakib",
         position : 240,
-        // img: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
         year: 2020
     },
 
