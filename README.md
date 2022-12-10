@@ -1,6 +1,6 @@
 # Live Site Link:
 
-Link: https://earnest-arithmetic-2cd0f1.netlify.app/
+Link: https://diu-acm-haff-of-fame.netlify.app
 
 # Getting Started with Create React App
 
